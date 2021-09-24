@@ -1,0 +1,5 @@
+"..\Keypad\STARTUP.obj",
+"..\Keypad\Led.obj" 
+TO "..\Keypad\Keypad" 
+PRINT(".\Listings\Keypad.m51") RAMSIZE(256) 
+CODE( 0X0000-0XFFFF )
